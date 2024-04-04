@@ -8,19 +8,26 @@ body {
     background-color: #AF854F;
 }
 
+.foret{
+    color: #237823;
+}
+
 .Title{
     color: #237823;
     -webkit-text-stroke: 0.2px white;
     font-family: 'Mukta Vaani';
 }
 
-.paddingNavBar{
-    padding-top: 10rem;
+.MarginTitle{
+    margin-left: 5rem;
 }
 
-$primary: #237823;
-$secondary: #AF854F;
-$dark: #553C2A;
+.classNavBar{
+    color: #237823;
+    padding-top: 2rem;
+}
+
+
 
 
 
