@@ -90,13 +90,18 @@ body {
     display: block;
     font-size: 2rem;
   }
-  
-  
+
   /* Ajustement de la largeur du dropdown-menu */
   .dropdown-content {
     width: 20rem; 
     height: 22rem;/* Ajustez la largeur selon vos besoins */
   }
+
+    
+
+
+
+
 
 
 @import "~bootstrap/scss/bootstrap";
