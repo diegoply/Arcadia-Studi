@@ -1,4 +1,4 @@
-$(document).ready(function() {
+document.addEventListener("DOMContentLoaded", function() {
     (function() {
         const headerContainer = $("#header-container");
         const desktopHeaderUrl = 'partials/_headerdesktop.html.twig';
@@ -12,3 +12,4 @@ $(document).ready(function() {
         }
     })();
 });
+
